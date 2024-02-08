@@ -17,14 +17,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: #152241
-      accent: #f9b233
+      primary: '#152241'
+      accent: '#f9b233'
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
-      accent: lime
+      primary: '152241'
+      accent: '#f9b233'
 
 
 
