@@ -5,4 +5,4 @@ share: "true"
 
 ## Another Heading
 
-Some Example Text
+Some Example Text![[SafetyFolderHomeScreen.png|SafetyFolderHomeScreen.png]]
