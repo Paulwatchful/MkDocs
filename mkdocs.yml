@@ -2,8 +2,5 @@ site_name: SafetyFolder Documentation
 theme:
   name: material
   features:
-    - content.action.edit
-    - navigation.path
-    - toc.follow
     - toc.integrate
     - navigation.expand    
