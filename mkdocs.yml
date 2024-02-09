@@ -3,4 +3,16 @@ theme:
   name: material
   features:
     - content.action.edit
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.path
+    - navigation.prune
+    - navigation.expand
+    - toc.follow
  
