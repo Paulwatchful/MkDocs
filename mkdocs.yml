@@ -2,5 +2,11 @@ site_name: SafetyFolder Documentation
 theme:
   name: material
   features:
-    - toc.integrate
-    - navigation.expand    
+    - content.action.edit
+    - navigation.expand
+
+
+
+  nav:
+  - 'index.md'
+  - 'userguide.md'
