@@ -3,7 +3,7 @@ theme:
   name: material
   features:
     - content.action.edit
-    - navigation.expand
+    
     - navigation.top
     - navigation.instant
 
