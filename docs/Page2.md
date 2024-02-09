@@ -4,11 +4,14 @@ share: "true"
 # Page 2
 
 ## Another Heading
- # test 
-## Test 
- ## indent
-## Test 3
-
+nav:
+  - Home: 'index.md'
+  - 'User Guide':
+    - 'Writing your docs': 'writing-your-docs.md'
+    - 'Styling your docs': 'styling-your-docs.md'
+  - About:
+    - 'License': 'license.md'
+    - 'Release Notes': 'release-notes.md'
 # My Awesome Demo Page
 
 Welcome to my demo page! Here you'll find various sections of content, starting with a collapsible navigation menu below.
