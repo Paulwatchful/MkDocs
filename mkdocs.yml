@@ -6,7 +6,3 @@ theme:
     - navigation.path
     - toc.follow
     - toc.integrate
- markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
