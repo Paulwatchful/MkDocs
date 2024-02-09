@@ -6,3 +6,4 @@ theme:
     - navigation.path
     - toc.follow
     - toc.integrate
+    - navigation.expand    
